@@ -39,4 +39,8 @@ Based on the Confusion matrix results and the classification report, we can see 
   The most influential variables are the Contract Type, Monthly Charges and the Tenure.
 
   ## Business Impact 
-  Based on our analysis, it is evident that the business should focus on having clients sign up longer contracts. Clients who remain on month-to-month contracts are at a high risk of churning. The business can also implement strategies to incentivize current month-to-month clients to transition to longer contracts or other tailored retention strategies. Retaining these month-to-month clients will directly reduce revenue leakage.
+  Based on our analysis, it is evident that the business should focus on having clients sign up longer contracts. Clients who remain on month-to-month contracts are at a high risk of churning. Similarly Monthly charges are a significant cause of churn amongst these month-to-month clients. The business can also implement strategies to incentivize current month-to-month clients to transition to longer contracts or other tailored retention strategies. Retaining these month-to-month clients will directly reduce revenue leakage.
+
+## Business Recommendations
+- The business could offer loyalty programs, such as discount programs to reward month-to-month clients. This incentivizes their loyalty, reducing churn.
+- The business could review the monthly charge structure. Possibly by charging a higher signup fee and a higher cancellation fee they can offset the need for high monthly fees and reduce client churn due to high monthly fees.
