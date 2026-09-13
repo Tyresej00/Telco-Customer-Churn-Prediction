@@ -9,3 +9,4 @@ Furthermore I encoded and scaled the data. I then completed the test/train split
 ## Exploratory Data Analysis
 I aimed to better understand the data prior to model generation. Visualizing the data helps us in understanding the relationships between our variables.
 
+![Customer Churn](Assets/contract.churn.png)
